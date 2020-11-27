@@ -1,0 +1,2 @@
+# SmartStore
+Wild ideas
