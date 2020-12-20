@@ -1,5 +1,4 @@
 # SmartStore
-<<<<<<< HEAD
 
 无人超市
 
@@ -16,6 +15,3 @@
 ## **使用许可**
 
 [MIT](LICENSE) © Yangge Liu
-=======
-Wild ideas
->>>>>>> 33796bb14e69bb26b0d7475a657cd30334a31a92
